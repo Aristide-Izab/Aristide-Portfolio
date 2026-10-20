@@ -23,8 +23,8 @@ const details = {
       "Students and other campus members need a simple way to discover products and connect within their own community.",
     work: "I built the first phase of the Android onboarding experience: welcome, account choice, login, registration, student verification, and password reset. The app uses Firebase Authentication and Firestore for account flows.",
     stack: ["Android", "Java", "Firebase Authentication", "Firestore"],
-    link: "Mobile app is in development and not yet publicly available.",
-    linkLabel: "Private repository",
+    link: "https://github.com/Aristide-Izab/community-store",
+    linkLabel: "View on GitHub",
   },
   "ssg-auto-glass": {
     number: "03",
